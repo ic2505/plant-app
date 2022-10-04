@@ -59,7 +59,7 @@ export default function LandingHero() {
                     </a>
                   ))}
                   <a
-                    href="#Login"
+                    href="/"
                     className="font-medium text-green-600 hover:text-green-500"
                   >
                     Log in
@@ -109,7 +109,7 @@ export default function LandingHero() {
                     ))}
                   </div>
                   <a
-                    href="#"
+                    href="/"
                     className="block w-full bg-gray-50 px-5 py-3 text-center font-medium text-green-600 hover:bg-gray-100"
                   >
                     Log in
@@ -135,7 +135,7 @@ export default function LandingHero() {
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
                   <a
-                    href="#"
+                    href="/"
                     className="flex w-full items-center justify-center rounded-md border border-transparent bg-green-600 px-8 py-3 text-base font-medium text-white hover:bg-green-700 md:py-4 md:px-10 md:text-lg"
                   >
                     Get started
@@ -143,7 +143,7 @@ export default function LandingHero() {
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
                   <a
-                    href="#"
+                    href="/"
                     className="flex w-full items-center justify-center rounded-md border border-transparent bg-green-100 px-8 py-3 text-base font-medium text-green-700 hover:bg-green-200 md:py-4 md:px-10 md:text-lg"
                   >
                     Browse

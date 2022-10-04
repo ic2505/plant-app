@@ -1,13 +1,24 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import "./index.css";
+
+import reportWebVitals from "./reportWebVitals";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+import Landing from "./views/Landing";
+import About from "./views/About";
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <Routes>
+        {/* Landing Pages */}
+        <Route path="/" element={<Landing />} />
+        <Route path="about" element={<About />} />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 

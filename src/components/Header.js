@@ -18,12 +18,6 @@ import { ChevronDownIcon } from "@heroicons/react/20/solid";
 
 const solutions = [
   {
-    name: "Home",
-    description: "Go back to homepage.",
-    href: "#",
-    icon: ChartBarIcon,
-  },
-  {
     name: "Flowers",
     description: "Discover the wonderful world of flowers.",
     href: "#",

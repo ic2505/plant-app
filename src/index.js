@@ -8,6 +8,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Landing from "./views/Landing";
 import About from "./views/About";
+import Plants from "./views/Plants";
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -17,6 +19,7 @@ root.render(
         {/* Landing Pages */}
         <Route path="/" element={<Landing />} />
         <Route path="about" element={<About />} />
+        <Route path="plants" element={<Plants />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

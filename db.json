@@ -1,0 +1,130 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Sunflower",
+      "href": "#",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/1200px-Sunflower_sky_backdrop.jpg",
+      "imageAlt": "Sunflower plant.",
+      "price": "$35",
+      "color": "Yellow"
+    },
+    {
+      "id": 2,
+      "name": "Dragon Orchid",
+      "href": "#",
+      "imageSrc": "http://images.fineartamerica.com/images-medium-large/dragon-orchid-jean-noren.jpg",
+      "imageAlt": "Dragon Orchid.",
+      "price": "$35",
+      "color": "Purple"
+    },
+    {
+      "id": 3,
+      "name": "Canna 'Yellow King Humbert'",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/jYhhrZfp5CMGWP8qv7aDc-768-80.jpg.webp",
+      "imageAlt": "Canna Yellow King Humbert.",
+      "price": "$35",
+      "color": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "Black Bamboo",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/QnsrNKF98w7PKJ6s4YSSsB-768-80.jpg.webp",
+      "imageAlt": "Black Bamboo.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 5,
+      "name": "Cordyline",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/TdHHgv5CmA9ydt5uQC8kva-768-80.jpg.webp",
+      "imageAlt": "Cordyline.",
+      "price": "$35",
+      "color": "Red"
+    },
+    {
+      "id": 6,
+      "name": "Ginger Lily",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/cge3s4thcMvev4uBus2P75-768-80.jpg.webp",
+      "imageAlt": "Cordyline.",
+      "price": "$35",
+      "color": "Yellow"
+    },
+    {
+      "id": 7,
+      "name": "Aeonium",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/yh4W7NZ5GmdtDyfLWJQ3gL-768-80.jpg.webp",
+      "imageAlt": "Aeonium.",
+      "price": "$35",
+      "color": "Red"
+    },
+    {
+      "id": 8,
+      "name": "Bird Of Paradise",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/M9rmT8VxD4akAjWq3theEP-768-80.jpg.webp",
+      "imageAlt": "Bird Of Paradise.",
+      "price": "$35",
+      "color": "Yellow"
+    },
+    {
+      "id": 9,
+      "name": "Pinapple Flower",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/LWTU5vMWzKKHeQ35iVCJsD-768-80.jpg.webp",
+      "imageAlt": "Pinapple Flower.",
+      "price": "$35",
+      "color": "Green"
+    },
+    {
+      "id": 10,
+      "name": "Peacock Tiger Flower",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/EXS8dkjN5ZMgAkgy6ybVAC-768-80.jpg.webp",
+      "imageAlt": "Peacock Tiger Flower.",
+      "price": "$35",
+      "color": "Yellow"
+    },
+    {
+      "id": 11,
+      "name": "Crown Imperial",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/EcQ789kArdkNWbANeyMGRh-768-80.jpg.webp",
+      "imageAlt": "Crown Imperial.",
+      "price": "$35",
+      "color": "Orange"
+    },
+    {
+      "id": 12,
+      "name": "Byzantine Gladiolus",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/e7oWSppe6nNfJQQTDBFYif-768-80.jpg.webp",
+      "imageAlt": "Byzantine Gladiolus.",
+      "price": "$35",
+      "color": "Purple"
+    },
+    {
+      "id": 13,
+      "name": "Cardinal Climber",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/BaU5ETtFLoLuV8aLPxecH8-768-80.jpg.webp",
+      "imageAlt": "Cardinal Climber.",
+      "price": "$35",
+      "color": "Red"
+    },
+    {
+      "id": 14,
+      "name": "Trumpet Vine",
+      "href": "#",
+      "imageSrc": "https://cdn.mos.cms.futurecdn.net/4rXj4WhPshpkEMTps5zFAg-768-80.jpg.webp",
+      "imageAlt": "Trumpet Vine.",
+      "price": "$35",
+      "color": "Orange"
+    }
+  ]
+}

@@ -5,13 +5,13 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 const navigation = [
   { name: "Home", href: "/" },
   { name: "About", href: "about" },
-  { name: "Plants", href: "" },
+  { name: "Plants", href: "plants" },
   { name: "Company", href: "" },
 ];
 
 export default function LandingHero() {
   return (
-    <div className="relative overflow-hidden bg-white">
+    <div className="relative overflow-hidden bg-white z-0">
       <div className="mx-auto max-w-7xl">
         <div className="relative z-10 bg-white pb-8 sm:pb-16 md:pb-20 lg:w-full lg:max-w-2xl lg:pb-28 xl:pb-32">
           <svg
@@ -26,7 +26,7 @@ export default function LandingHero() {
 
           <Popover>
             <div className="relative px-4 pt-6 sm:px-6 lg:px-8">
-              <nav
+              {/* <nav
                 className="relative flex items-center justify-between sm:h-10 lg:justify-start"
                 aria-label="Global"
               >
@@ -65,7 +65,7 @@ export default function LandingHero() {
                     Log in
                   </a>
                 </div>
-              </nav>
+              </nav> */}
             </div>
 
             <Transition
@@ -135,7 +135,7 @@ export default function LandingHero() {
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
                   <a
-                    href="/"
+                    href="/plants"
                     className="flex w-full items-center justify-center rounded-md border border-transparent bg-green-600 px-8 py-3 text-base font-medium text-white hover:bg-green-700 md:py-4 md:px-10 md:text-lg"
                   >
                     Get started
@@ -143,7 +143,7 @@ export default function LandingHero() {
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
                   <a
-                    href="/"
+                    href="/plants"
                     className="flex w-full items-center justify-center rounded-md border border-transparent bg-green-100 px-8 py-3 text-base font-medium text-green-700 hover:bg-green-200 md:py-4 md:px-10 md:text-lg"
                   >
                     Browse

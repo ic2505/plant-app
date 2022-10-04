@@ -1,11 +1,12 @@
 import React from "react";
+import Header from "../components/Header";
+import Text from "../components/about/Text";
 
-function About() {
+export default function About() {
   return (
-    <div>
-      <h1>ABout</h1>
-    </div>
+    <>
+      <Header />
+      <Text />
+    </>
   );
 }
-
-export default About;
